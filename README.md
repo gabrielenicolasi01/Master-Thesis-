@@ -1,6 +1,3 @@
-# Master-Thesis-
-This Python code implements the empirical analysis of the thesis “Empirical Analysis of Fragility, Robustness, and Antifragility in Investment Portfolios.” 
-
 # Antifragility Portfolio Thesis
 
 Python code used in my Master's thesis: *"Analsi empirica di fragilità, robustezza e antifragilità nei portafogli di investimento"*  
